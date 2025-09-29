@@ -1,6 +1,15 @@
-# E-Commerce AI Customer Support Agent
+# 🛍️ E-Commerce AI Customer Support Agent
+
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![LangChain](https://img.shields.io/badge/LangChain-0.3+-green.svg)](https://langchain.com/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-orange.svg)](https://openai.com/)
 
 A production-ready conversational AI agent built with **LangGraph** and **LangChain** that handles CRUD operations on an e-commerce database through natural language conversations.
+
+🌐 **[Live Demo](https://github.com/kodalisaiteja7/ecom-agent)** | 📖 **[Documentation](INDEX.md)** | 🚀 **[Quick Start](QUICKSTART.md)**
+
+---
 
 📑 **New to the project? Start with [INDEX.md](INDEX.md) for easy navigation!**
 
