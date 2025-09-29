@@ -1,0 +1,11 @@
+langgraph>=0.6.7
+langchain>=0.3.27
+langchain-openai>=0.3.33
+langchain-community>=0.3.30
+langchain-core>=0.3.76
+openai>=1.109.1
+sqlalchemy>=2.0.43
+pydantic>=2.11.9
+python-dotenv>=1.0.0
+flask>=3.0.0
+flask-cors>=4.0.0
